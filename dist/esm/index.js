@@ -212,12 +212,12 @@ function $bb14b941f7134610$var$getPosition(props) {
   if (leftToRight) return "left-to-right";
 }
 function $bb14b941f7134610$export$7709b8005774fb51(props) {
-  console.log('PROPS TO CHANGE: --> ', props)
+  console.log("PROPS TO CHANGE: --> ", props);
   const { from: from, to: to } = props;
   const fromRect = from?.rect;
   const toRect = to?.rect;
   if (!fromRect || !toRect) return;
-  const position = "bottom-to-top"
+  const position = "bottom-to-top";
   // $bb14b941f7134610$var$getPosition({
   //   from: fromRect,
   //   to: toRect
@@ -313,8 +313,7 @@ const $70a9c9547d425b9f$var$SVG_STYLE = {
   pointerEvents: "none",
   width: "100%",
   height: "100%",
-  zIndex: '-1',
-  "z-index": "-1"
+  zIndex: "-1"
 };
 const $70a9c9547d425b9f$var$DEFAULT_COLOR = "#000000";
 const $70a9c9547d425b9f$var$EMPTY_ARRAY = [];
