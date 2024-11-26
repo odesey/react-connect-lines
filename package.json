@@ -14,8 +14,8 @@
     "framer-motion": "^6.3.3",
     "lodash": "^4.17.21",
     "nanoid": "^4.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^18",
+    "react-dom": "^18",
     "styled-components": "^5.3.5"
   },
   "resolutions": {
